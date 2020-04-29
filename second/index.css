@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 20px;
+}
+
+.header{
+    height: 20vh;
+    width: 100%;
+    margin: 10px auto;
+    padding: 10px;
+    border: 5px solid black;
+    box-sizing: border-box;
+    
+}
+
+.rectangle-1{
+    height: 75px;
+    width: 25px;
+    display: inline-block;
+    background-color: purple;
+}
+
+.rectangle-2{
+    height: 110px;
+    width: 220px;
+    display: inline-block;
+    background-color: green;
+    margin: 0 30px;
+}
+
+.circle-1{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: lightblue;
+    display: inline-block;
+}
+
+.main{
+    height: 30vh;
+    width: 100%;
+    margin: 10px auto;
+    padding: 35px;
+    border: 5px dotted black;
+    box-sizing: border-box;
+}
+
+.rectangle-3{
+    height: 130px;
+    width: 700px;
+    background-color: peachpuff;
+    box-shadow: 2px 2px 4px 0px black;
+    vertical-align: center;
+}
+
+.footer{
+    height: 35vh;
+    width: 50%;
+    margin: 10px auto;
+    padding: 80px;
+    border: 1px black;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 4px 0px rgb(17, 17, 17);
+}
+
+h1{
+    font-size: 25px;
+    color: blue;
+    text-align: center;
+    width: 100%;
+    letter-spacing: 10px;
+}

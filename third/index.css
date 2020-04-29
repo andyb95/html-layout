@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+
+}
+
+.header{
+    width: 100vw;
+    height: 15vh;
+    background-color: gray;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    background-color: rgb(144, 202, 221);
+
+}
+
+h1{
+    text-align: left;
+    font-size: medium;
+    margin: 40px;
+    letter-spacing: 2px;
+    font: url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
+}
+
+.row{
+    width: 100vw;
+    height: 15vh;
+}
+
+.line1{
+    background-color: rgb(144, 202, 221);
+}
+
+.line2{
+    background-color: teal
+}
+
+.line3{
+    background-color: yellowgreen
+}
+
+.line4{
+    background-color: yellow
+}
